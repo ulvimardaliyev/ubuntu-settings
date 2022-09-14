@@ -8,5 +8,4 @@ Add imwheel as a startup application (to make things continue working after rest
 Open Apps -> Startup Applications
 Add a new entry to the bottom of the list: Name= Wheel Scroll Speed, Command= imwheel, Comment= Activates wheel scroll speed fix on system startup (or whatever you like)
 
-
 https://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed
