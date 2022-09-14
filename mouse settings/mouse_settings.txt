@@ -1,0 +1,12 @@
+Mouse scroll setting
+
+Install imwheel and adjust (to make things work):
+Run sudo apt install imwheel
+Run bash <(curl -s http://www.nicknorton.net/mousewheel.sh)
+Using the slider adjust the scroll speed 'multiplier'. (I like it on 4/5)
+Add imwheel as a startup application (to make things continue working after restart):
+Open Apps -> Startup Applications
+Add a new entry to the bottom of the list: Name= Wheel Scroll Speed, Command= imwheel, Comment= Activates wheel scroll speed fix on system startup (or whatever you like)
+
+
+https://askubuntu.com/questions/255890/how-can-i-adjust-the-mouse-scroll-speed
