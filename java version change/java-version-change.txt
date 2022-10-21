@@ -1,0 +1,5 @@
+sudo update-alternatives --config java
+sudo update-alternatives --config javac
+
+
+https://askubuntu.com/questions/121654/how-to-set-default-java-version
